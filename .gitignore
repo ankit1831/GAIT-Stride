@@ -2,24 +2,7 @@
 
 /CASIA - B
 
-/New Dataset
 /data
-/plots
-/__pycache__
-/gei_cache
-output_silhouettes
-temp_frames
-temp_silhouettes
-test
-casia_b_090_gait_data.npz
-dataset.zip
-processed_90 (2).zip
 
-processed_90 (3).zip
-processed_90 (4).zip
-processed_90.zip
-test.zip
-gait_simple_cnn_model_123_subjects.pth
-gait_model_full.pt
 yolov8n.pt
 yolov8n-seg.pt
